@@ -1,0 +1,7 @@
+Drugie spotkanie Scrum:
+1. Program na PC: zapoznanie sie z technologiami C/C++ umozliwaiajacyimi kooperacje z serwerem
+2. Stworzenie ogólnego algorytmu blokowego dzialania stacji i poszczególnych czesci
+3. Wybór elementów elektronicznych, potrzebnych do konstrukcji ukladu
+4. Zakup elementów elektronicznych
+5. Stworzenie schematu elektronicznego prototypu urzadzenia
+6. Stworzenie prototypu urzadzenia  
