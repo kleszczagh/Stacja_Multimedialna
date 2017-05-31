@@ -1,0 +1,3 @@
+"<Miasto>,T<temperatura>,O<jakieœ opady>,P<s³oñce, zachmurzenie itp>/r" 
+Przyk³ad
+"Kraków,T25.5,Obrak,Pslonce"
