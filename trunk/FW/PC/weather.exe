@@ -1,0 +1,5 @@
+#!/bin/sh
+
+URL='http://www.accuweather.com/en/pl/krakow/274455/weather-forecast/274455'
+
+wget -q -O- "$URL" | awk -F\' '/acm_RecentLocationsCarousel\.push/{print $2": "$16", "$12"°" }'| head -1 -> wynik
